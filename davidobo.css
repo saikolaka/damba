@@ -1,7 +1,7 @@
-
+  
         :root {
-            --color-primary: rgb(213, 115, 40);
-            --color-secondary: #235E00
+            --color-primary: rgb(33, 128, 106);
+            --color-secondary: #247169
         }
 
         * {
@@ -122,7 +122,7 @@
         .chat__conversation-box-active {
             width: 1rem;
             height: 1rem;
-            background-color: #FE6601;
+            background-color: #21806a;
             border-radius: 50%;
             position: absolute;
             top: 2.5rem;
@@ -131,7 +131,7 @@
 
         .chat__conversation-box-content-comment {
             padding: 1rem;
-            background-color: #F3F3F2;
+            background-color: #D5D5D2;
             border-top-left-radius: 14px;
             border-top-right-radius: 14px;
             border-bottom-left-radius: 14px;
@@ -147,7 +147,7 @@
         .chat__conversation-box-content-cta {
             margin-top: .3rem;
             padding-left: 1.5rem;
-            color: #F3F3F2
+            color: #726695
         }
 
         .chat__conversation-box-content-cta-text {
@@ -371,10 +371,10 @@
             width: 80%;
             font-size: 2rem;
             font-weight: 700;
-            color: #000;
+            color: #ffffff;
             padding: 1rem;
             border: none;
-            background-color: #235E00;
+            background-color: #133733;
             border-top-left-radius: 14px;
             border-top-right-radius: 14px;
             border-bottom-left-radius: 14px;
@@ -608,4 +608,4 @@
         input[type=number] {
             -moz-appearance: textfield;
         }
-    
+   
