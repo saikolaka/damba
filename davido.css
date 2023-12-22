@@ -1,4 +1,4 @@
- <style>
+
   .blink {
   animation: blink 1s steps(1, end) infinite;
 }
@@ -14,8 +14,8 @@
     opacity: 1;
   }
 }
-</style>
-<style type="text/css">
+
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap");
 @import url("//fonts.googleapis.com/earlyaccess/droidarabicnaskh.css");
 * {
@@ -29,7 +29,7 @@
 }
 body {
     direction: lfl;
-    background: #809C01;
+    background: #C90E1F;
 }
 a {
     text-decoration: none;
@@ -81,7 +81,7 @@ button {
     border-radius: 5px;
     padding: 0 10px;
     margin: 10px auto;
-    background: rgb(128, 156, 1);
+    background: rgb(201, 14, 31);
     transition: background 0.3s ease;
 }
 button:hover {
@@ -274,5 +274,5 @@ button:hover {
     text-align: center;
     background-color: rgb(250, 245, 235);
 }
-</style>
+
   
