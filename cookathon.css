@@ -64,7 +64,7 @@ button {
     border-radius: 5px;
     padding: 0 10px;
     margin: 10px auto;
-    background: rgb(0, 94, 172);
+    background: rgb(204, 41, 0);
     transition: background 0.3s ease;
 }
 button:hover {
